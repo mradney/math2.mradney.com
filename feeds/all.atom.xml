@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SBCD Math 2 International</title><link href="http://math2.mradney.com/" rel="alternate"></link><link href="http://math2.mradney.com/feeds/all.atom.xml" rel="self"></link><id>http://math2.mradney.com/</id><updated>2012-10-12T09:35:52-05:00</updated><entry><title>Permutations and Combinations in Detail</title><link href="http://math2.mradney.com/permutations-and-combinations-in-detail.html" rel="alternate"></link><updated>2012-10-12T09:35:52-05:00</updated><author><name>James Adney</name></author><id>tag:math2.mradney.com,2012-10-12:permutations-and-combinations-in-detail.html</id><summary type="html">&lt;h2&gt;Topic&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SBCD Math 2 International</title><link href="http://math2.mradney.com/" rel="alternate"></link><link href="http://math2.mradney.com/feeds/all.atom.xml" rel="self"></link><id>http://math2.mradney.com/</id><updated>2012-10-12T14:05:01-05:00</updated><entry><title>Combinations and Practice Problems</title><link href="http://math2.mradney.com/combinations-and-practice-problems.html" rel="alternate"></link><updated>2012-10-12T14:05:01-05:00</updated><author><name>James Adney</name></author><id>tag:math2.mradney.com,2012-10-12:combinations-and-practice-problems.html</id><summary type="html">&lt;h2&gt;Reminder&lt;/h2&gt;
+&lt;h3&gt;Due on Monday, October 15th&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Complete the worksheet titled &lt;em&gt;Permutations and Combinations Practice&lt;/em&gt;
+  and bring it to class.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Homework &lt;em&gt;Attachment 1&lt;/em&gt; is now due on Monday, not today.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Make sure to have a parent or guardian sign your agenda. Bring it
+  signed and pasted into your notebook on Monday.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Have a great weekend and see you on Monday!&lt;/p&gt;</summary><category term="permutations"></category><category term="probability"></category><category term="combinations"></category><category term="homework"></category></entry><entry><title>Permutations and Combinations in Detail</title><link href="http://math2.mradney.com/permutations-and-combinations-in-detail.html" rel="alternate"></link><updated>2012-10-12T09:35:52-05:00</updated><author><name>James Adney</name></author><id>tag:math2.mradney.com,2012-10-12:permutations-and-combinations-in-detail.html</id><summary type="html">&lt;h2&gt;Topic&lt;/h2&gt;
 &lt;p&gt;Yesterday we continued talking about permutations. We also saw formulas for 
 finding the number of permutations with and without repetition. Today
 we are going to finish by talking about combinations.&lt;/p&gt;
