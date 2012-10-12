@@ -23,3 +23,4 @@ DEFAULT_LANG = 'en'
 
 DEFAULT_PAGINATION = 5
 THEME = "/home/james/Desktop/math_2_blog/theme/"
+FILES_TO_COPY = [('CNAME', 'CNAME')]
