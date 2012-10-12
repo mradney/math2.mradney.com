@@ -49,12 +49,12 @@ hr { border: 2px solid #EEEEEE; }
 a {outline: 0;}
 a img {border: 0px; text-decoration: none;}
 a:link, a:visited {
-	color: #C74350;
+	color: #213970;
 	padding: 0 1px;
 	text-decoration: underline;
 }
 a:hover, a:active {
-	background-color: #C74350;
+	background-color: #213970;
 	color: #fff;
 	text-decoration: none;
 	text-shadow: 1px 1px 1px #333;
@@ -93,7 +93,7 @@ ol {
 
 .readmore { float: right }
 
-dl {margin: 0 0 1.5em 0; margin-left: 3em;}
+dl {margin: 0 0 1.5em 0; margin-left: 2em;}
 dt {font-weight: bold;}
 dd {margin-left: 1.5em;}
 
@@ -163,7 +163,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	}
 	#banner h1 a:hover, #banner h1 a:active {
 		background: none;
-		color: #C74350;
+		color: #213970;
 		text-shadow: none;
 	}
 	
@@ -264,7 +264,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 #extras ul {list-style: none; margin: 0;}
 #extras li {border-bottom: 1px solid #fff;}
 #extras h2 {
-	color: #C74350;
+	color: #213970;
 	font-size: 1.429em;
 	margin-bottom: .25em;
 	padding: 0 3px;
