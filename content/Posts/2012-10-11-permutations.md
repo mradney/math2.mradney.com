@@ -24,7 +24,7 @@ n! means the factorial of the number represented by the variable "n".
 ## Permutations with Repetition
 
 *n* = number of things to choose from
-*r* = 
+*r*  
 
 
 [1]: https://www.google.com.mx/search?q=define%3A+permutation

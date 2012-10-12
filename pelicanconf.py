@@ -5,8 +5,8 @@ AUTHOR = u"James Adney"
 SITENAME = u"SBCD Math 2 International"
 SITEURL = 'http://math2.mradney.com'
 
-FEED_RSS = 'feeds/all.rss.xml'
-CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+#FEED_RSS = 'feeds/all.rss.xml'
+#CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
 TIMEZONE = 'America/Mexico_City'
 
