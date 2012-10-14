@@ -7,7 +7,7 @@
 site:
     name: SBCD Math 2 Int. # your site name
     url: "http://math2.mradney.com/"  # your site url
-    # "prefix": "blog",
+    prefix: blog
 
 #: this config defined information of your site
 #: 1. where the resources  2. how should the site be generated
@@ -68,7 +68,7 @@ theme:
         "analytics": "UA-35532935-1"
         navigation: 
             - name: Blog
-              link: /
+              link: /blog/
             - name: Files
               link: /pages/files.html
             - name: Resources
@@ -76,7 +76,7 @@ theme:
             - name: Schedule
               link: /pages/schedule.html
             - name: "[topics]"
-              link: /tag/
+              link: /blog/tag/
 
 #: template variables
 template:
