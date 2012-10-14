@@ -50,8 +50,8 @@ writer:
         - liquidluck.writers.core.YearWriter
         - liquidluck.writers.core.CategoryWriter
         #- liquidluck.writers.core.CategoryFeedWriter
-        #- liquidluck.writers.core.TagWriter
-        #- liquidluck.writers.core.TagCloudWriter
+        - liquidluck.writers.core.TagWriter
+        - liquidluck.writers.core.TagCloudWriter
     vars:
         # uncomment if you want to reset archive page
         # archive_output: archive.html
@@ -67,7 +67,7 @@ theme:
         "disqus": "mradney"
         "analytics": "UA-35532935-1"
         navigation: 
-            - name: Home
+            - name: Blog
               link: /
             - name: Files
               link: /pages/files.html
@@ -75,6 +75,8 @@ theme:
               link: /pages/resources.html
             - name: Schedule
               link: /pages/schedule.html
+            - name: "[topics]"
+              link: /tag/
 
 #: template variables
 template:
