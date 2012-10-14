@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>SBCD Math 2 Int.</title>
+    <link href="http://math2.mradney.com/feed.xml" rel="self" />
+    <link href="http://math2.mradney.com/" />
+    <updated>2012-10-14T14:15:51+06:00</updated>
+    <id>http://math2.mradney.com/</id>
+    <entry>
+        <title type="html"><![CDATA[Reminders for Monday]]></title>
+        <author><name>James Adney</name></author>
+        <link href="http://math2.mradney.com/2012/2012-10-12-combinations.html"/>
+        <published>2012-10-12T00:00:00+06:00</published>
+        <updated>2012-10-14T14:15:51+06:00</updated>
+        <id>http://math2.mradney.com/2012/2012-10-12-combinations.html</id>
+        <category scheme="http://math2.mradney.com/tag/homework/" term="homework" label="homework" />
+        <content type="html" xml:base="http://math2.mradney.com/" xml:lang="en">
+            <![CDATA[ <h2 id="toc_0">Due on Monday, October 15th</h2>
+
+<ul>
+<li><p>Complete the worksheet titled <em>Permutations and Combinations Practice</em>
+and bring it to class.</p></li>
+<li><p>Homework <em>Attachment 1</em> is now due on Monday, not today.</p></li>
+<li><p>Make sure to have a parent or guardian sign your agenda. Bring it
+signed and pasted into your notebook.</p></li>
+</ul>
+<p>Have a great weekend and see you on Monday!</p>
+]]>
+        </content>
+    </entry><entry>
+        <title type="html"><![CDATA[Permutations and Combinations in Detail]]></title>
+        <author><name>James Adney</name></author>
+        <link href="http://math2.mradney.com/2012/2012-10-11-permutations.html"/>
+        <published>2012-10-11T00:00:00+06:00</published>
+        <updated>2012-10-14T11:16:08+06:00</updated>
+        <id>http://math2.mradney.com/2012/2012-10-11-permutations.html</id>
+        <category scheme="http://math2.mradney.com/tag/permutations/" term="permutations" label="permutations" />
+        <category scheme="http://math2.mradney.com/tag/probability/" term="probability" label="probability" />
+        <category scheme="http://math2.mradney.com/tag/combinations/" term="combinations" label="combinations" />
+        <content type="html" xml:base="http://math2.mradney.com/" xml:lang="en">
+            <![CDATA[ <h2 id="toc_0">Topic</h2>
+<p>Yesterday we continued talking about permutations. We also saw formulas for 
+finding the number of permutations with and without repetition. Today
+we are going to finish by talking about combinations.</p>
+<p>If you still find permutations and combinations somewhate confusing,
+or if you just want to review, check out the following resources:</p>
+
+<h2 id="toc_1">Resources</h2>
+
+<h3 id="toc_2">Websites</h3>
+
+<ul>
+<li><a href="http://goo.gl/tCyRj">&ldquo;Better Explained&rdquo; - Permutations and Combinations</a></li>
+<li><a href="http://goo.gl/zjGlJ">Math is Fun - Permutations and Combinations</a></li>
+</ul>
+
+<h3 id="toc_3">Videos</h3>
+
+<ul>
+<li><a href="http://goo.gl/QYmMU">Khan Academy - Permutations and Combinations</a></li>
+</ul>
+]]>
+        </content>
+    </entry>
+</feed>
