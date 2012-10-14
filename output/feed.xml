@@ -3,14 +3,14 @@
     <title>SBCD Math 2 Int.</title>
     <link href="http://math2.mradney.com/feed.xml" rel="self" />
     <link href="http://math2.mradney.com/" />
-    <updated>2012-10-14T14:15:51+06:00</updated>
+    <updated>2012-10-14T14:33:19+06:00</updated>
     <id>http://math2.mradney.com/</id>
     <entry>
         <title type="html"><![CDATA[Reminders for Monday]]></title>
         <author><name>James Adney</name></author>
         <link href="http://math2.mradney.com/2012/2012-10-12-combinations.html"/>
         <published>2012-10-12T00:00:00+06:00</published>
-        <updated>2012-10-14T14:15:51+06:00</updated>
+        <updated>2012-10-14T14:33:19+06:00</updated>
         <id>http://math2.mradney.com/2012/2012-10-12-combinations.html</id>
         <category scheme="http://math2.mradney.com/tag/homework/" term="homework" label="homework" />
         <content type="html" xml:base="http://math2.mradney.com/" xml:lang="en">
@@ -31,7 +31,7 @@ signed and pasted into your notebook.</p></li>
         <author><name>James Adney</name></author>
         <link href="http://math2.mradney.com/2012/2012-10-11-permutations.html"/>
         <published>2012-10-11T00:00:00+06:00</published>
-        <updated>2012-10-14T11:16:08+06:00</updated>
+        <updated>2012-10-14T14:33:19+06:00</updated>
         <id>http://math2.mradney.com/2012/2012-10-11-permutations.html</id>
         <category scheme="http://math2.mradney.com/tag/permutations/" term="permutations" label="permutations" />
         <category scheme="http://math2.mradney.com/tag/probability/" term="probability" label="probability" />

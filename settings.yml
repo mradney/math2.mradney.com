@@ -69,8 +69,8 @@ theme:
         navigation: 
             - name: Home
               link: /
-            - name: Agendas
-              link: /pages/agendas.html
+            - name: Files
+              link: /pages/files.html
             - name: Resources
               link: /pages/resources.html
             - name: Schedule
