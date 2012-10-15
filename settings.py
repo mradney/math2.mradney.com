@@ -9,7 +9,7 @@ sys.path.append(os.getcwd())
 from _base.settings import *
 
 site = {
-    'name': "SBCD Math 2 Int.", # your site name
+    'name': "Math 2 Int.", # your site name
     'url': "http://math2.mradney.com/",  # your site url
     'prefix': "blog",
 }
