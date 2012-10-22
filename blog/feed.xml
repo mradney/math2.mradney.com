@@ -3,9 +3,28 @@
     <title>Math 2 Int.</title>
     <link href="http://math2.mradney.com/blog/feed.xml" rel="self" />
     <link href="http://math2.mradney.com/blog/" />
-    <updated>2012-10-15T12:58:09+06:00</updated>
+    <updated>2012-10-22T18:22:32+06:00</updated>
     <id>http://math2.mradney.com/blog/</id>
     <entry>
+        <title type="html"><![CDATA[Order of Operations]]></title>
+        <author><name>James Adney</name></author>
+        <link href="http://math2.mradney.com/blog/2012/2012-10-22-order-of-operations.html"/>
+        <published>2012-10-22T00:00:00+06:00</published>
+        <updated>2012-10-22T18:22:32+06:00</updated>
+        <id>http://math2.mradney.com/blog/2012/2012-10-22-order-of-operations.html</id>
+        <category scheme="http://math2.mradney.com/blog/tag/#homework" term="homework" label="homework" />
+        <content type="html" xml:base="http://math2.mradney.com/" xml:lang="en">
+            <![CDATA[ <h2 id="toc_0">Reminders</h2>
+
+<ul>
+<li><p>Attachment 3, which is due Friday the 26th, had some formatting errors.
+Please download the <a href="http://goo.gl/HgNJI">fixed version</a>.</p></li>
+<li><p>Start your homework early so you can ask questions in class or in 
+asesorías <strong>before</strong> the due date.</p></li>
+</ul>
+]]>
+        </content>
+    </entry><entry>
         <title type="html"><![CDATA[Review of Combinations and Permutations]]></title>
         <author><name>James Adney</name></author>
         <link href="http://math2.mradney.com/blog/2012/2012-10-12-review.html"/>
