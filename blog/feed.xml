@@ -3,9 +3,23 @@
     <title>Math 2 Int.</title>
     <link href="http://math2.mradney.com/blog/feed.xml" rel="self" />
     <link href="http://math2.mradney.com/blog/" />
-    <updated>2012-10-25T16:41:11+06:00</updated>
+    <updated>2012-10-30T09:36:51+06:00</updated>
     <id>http://math2.mradney.com/blog/</id>
     <entry>
+        <title type="html"><![CDATA[Homework 5 (Attachment 4)]]></title>
+        <author><name>James Adney</name></author>
+        <link href="http://math2.mradney.com/blog/2012/2012-10-30-attachment-4.html"/>
+        <published>2012-10-30T00:00:00+06:00</published>
+        <updated>2012-10-30T09:36:51+06:00</updated>
+        <id>http://math2.mradney.com/blog/2012/2012-10-30-attachment-4.html</id>
+        <category scheme="http://math2.mradney.com/blog/tag/#homework" term="homework" label="homework" />
+        <content type="html" xml:base="http://math2.mradney.com/" xml:lang="en">
+            <![CDATA[ <h2 id="toc_0">New Due Date</h2>
+<p>Since we will not have class on Friday (November 2nd), Attachment 4 will be due
+on Monday, November 5th. Please update your agenda.</p>
+]]>
+        </content>
+    </entry><entry>
         <title type="html"><![CDATA[Important Updates]]></title>
         <author><name>James Adney</name></author>
         <link href="http://math2.mradney.com/blog/2012/2012-10-25-homework-update.html"/>
