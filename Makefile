@@ -6,5 +6,5 @@ deploy:
 	liquidluck build
 	ghp-import output
 	git push origin gh-pages
-preview: clean
+view: clean
 	liquidluck server
