@@ -3,9 +3,29 @@
     <title>Math 2 Int.</title>
     <link href="http://math2.mradney.com/blog/feed.xml" rel="self" />
     <link href="http://math2.mradney.com/blog/" />
-    <updated>2012-11-26T09:23:18+06:00</updated>
+    <updated>2013-01-28T22:09:54+06:00</updated>
     <id>http://math2.mradney.com/blog/</id>
     <entry>
+        <title type="html"><![CDATA[Exam 3 Study Guide]]></title>
+        <author><name>James Adney</name></author>
+        <link href="http://math2.mradney.com/blog/2013/2013-01-28-study-guide.html"/>
+        <published>2013-01-28T00:00:00+06:00</published>
+        <updated>2013-01-28T22:09:54+06:00</updated>
+        <id>http://math2.mradney.com/blog/2013/2013-01-28-study-guide.html</id>
+        <category scheme="http://math2.mradney.com/blog/tag/#exams" term="exams" label="exams" />
+        <content type="html" xml:base="http://math2.mradney.com/" xml:lang="en">
+            <![CDATA[ <h2 id="toc_0">Study Guide</h2>
+<p>Here it is: <a href="http://goo.gl/jk3vf">The study guide for the Block 3 Exam</a>.</p>
+
+<h2 id="toc_1">Previous study guides</h2>
+
+<ul>
+<li><a href="http://goo.gl/Jt1tK">Block 1 Study Guide</a></li>
+<li><a href="http://goo.gl/XLhD0">Block 2 Study Guide</a></li>
+</ul>
+]]>
+        </content>
+    </entry><entry>
         <title type="html"><![CDATA[Block 3 Agenda]]></title>
         <author><name>James Adney</name></author>
         <link href="http://math2.mradney.com/blog/2012/2012-11-26-agenda.html"/>
@@ -96,7 +116,7 @@ asesorías <strong>before</strong> the due date.</p></li>
         <author><name>James Adney</name></author>
         <link href="http://math2.mradney.com/blog/2012/2012-10-12-review.html"/>
         <published>2012-10-15T00:00:00+06:00</published>
-        <updated>2012-10-15T12:58:09+06:00</updated>
+        <updated>2012-10-15T12:57:49+06:00</updated>
         <id>http://math2.mradney.com/blog/2012/2012-10-12-review.html</id>
         <category scheme="http://math2.mradney.com/blog/tag/#combinations" term="combinations" label="combinations" />
         <category scheme="http://math2.mradney.com/blog/tag/#permutations" term="permutations" label="permutations" />
